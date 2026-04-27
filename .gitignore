@@ -12,6 +12,8 @@ dist
 dist-ssr
 *.local
 
+docs/
+
 # Local AI/tooling state
 .claude/
 .serena/
